@@ -26,10 +26,10 @@
 
 ### 🔬 About me
 
-- 🎓 MSc in Chemical / Process Engineering — researching **‹your thesis topic, e.g. "data-driven modelling of distillation columns"›**
+- 🎓 BSc in Chemical / Process Engineering — researching **‹your thesis topic, e.g. "data-driven modelling of distillation columns"›**
 - 🤖 I apply **machine learning** to process engineering problems: modelling, optimisation, soft sensors, fault detection, and surrogate models
 - ⚗️ Comfortable across the stack — from **first-principles process simulation** to **neural networks**
-- 🌱 Currently learning: **‹chemical and process engineering›**
+- 🌱 Currently learning: **Chemical and Process Engineering**
 - 📫 Reach me at **skugaparan2@gmail.com**
 
 ---
@@ -60,7 +60,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-> Trim this to the tools you actually use — an honest list reads better than a wall of badges.
+
 
 ---
 
@@ -75,15 +75,17 @@
 
 ---
 
-### 📈 GitHub stats
+---
+
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kugaparan&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kugaparan&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=kugaparan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kugaparan&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kugaparan&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
