@@ -26,7 +26,7 @@
 
 ### 🔬 About me
 
-- 🎓 BSc in Chemical / Process Engineering — researching **‹your thesis topic, e.g. "data-driven modelling of distillation columns"›**
+- 🎓 BSc in Chemical / Process Engineering 
 - 🤖 I apply **machine learning** to process engineering problems: modelling, optimisation, soft sensors, fault detection, and surrogate models
 - ⚗️ Comfortable across the stack — from **first-principles process simulation** to **neural networks**
 - 🌱 Currently learning: **Chemical and Process Engineering**
@@ -57,23 +57,20 @@
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 
 
 ---
 
-### 📌 Featured projects
+## 📌 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🧪 [**‹BSc Project›**](https://github.com/kugaparan/‹repo›) |  | Python · PyTorch |
-| ⚗️ [**‹Process Model›**](https://github.com/kugaparan/‹repo›) | Simulation / optimisation of a unit operation | Aspen · Python |
-| 🤖 [**‹ML Project›**](https://github.com/kugaparan/‹repo›) | Soft sensor / fault detection / surrogate model | scikit-learn |
-| 📊 [**‹Traditional Project›**](https://github.com/kugaparan/‹repo›) | A classic chem-eng calculation or tool | MATLAB |
-
----
+| Project | Description |
+|----------|-------------|
+| Boiler Heat Recovery Optimization | Aspen Plus simulation and energy efficiency improvement study |
+| Process Control Laboratory Work | PLC logic, automation, and industrial control exercises |
+| Aspen Plus Process Simulations | Heat exchangers, boilers, and process optimization models |
+| Engineering Python Projects | Data analysis and engineering calculations using Python |
 
 ---
 
