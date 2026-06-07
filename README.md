@@ -68,7 +68,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧪 [**‹MSc Thesis Project›**](https://github.com/kugaparan/‹repo›) | One-line summary of your flagship research | Python · PyTorch |
+| 🧪 [**‹BSc Project›**](https://github.com/kugaparan/‹repo›) |  | Python · PyTorch |
 | ⚗️ [**‹Process Model›**](https://github.com/kugaparan/‹repo›) | Simulation / optimisation of a unit operation | Aspen · Python |
 | 🤖 [**‹ML Project›**](https://github.com/kugaparan/‹repo›) | Soft sensor / fault detection / surrogate model | scikit-learn |
 | 📊 [**‹Traditional Project›**](https://github.com/kugaparan/‹repo›) | A classic chem-eng calculation or tool | MATLAB |
