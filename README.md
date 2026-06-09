@@ -26,7 +26,7 @@
 
 ### 🔬 About me
 
-- 🎓 BSc in Chemical / Process Engineering 
+- 🎓 BSc in Chemical & Process Engineering 
 - 🤖 I apply **machine learning** to process engineering problems: modelling, optimisation, soft sensors, fault detection, and surrogate models
 - ⚗️ Comfortable across the stack — from **first-principles process simulation** to **neural networks**
 - 🌱 Currently learning: **Chemical and Process Engineering**
